@@ -1,5 +1,4 @@
-# Hi 👋 and welcome to my profile 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=simaodiazz&color=brightgreen" alt="Fleivinho profile views" /> </p>
+# Hello 👋 and welcome to my profile 
 
 Here are some ideas to get you started:
 
