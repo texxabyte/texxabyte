@@ -1,4 +1,4 @@
-# Hello 👋 and welcome to my profile 
+# 👋 | Hello welcome to my profile 
 
 Here are some ideas to get you started:
 
