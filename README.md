@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I’m currently not working
 <br/>
-🌱 I’m currently learning Java
+🌱 I’m currently learning C# and Python
 <br/>
 💬 Ask me about Java Spigot & Bukkit Plugins
 <br/>
