@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I have experience with Java, C++, C# and Python
+👨🏻‍💻 I have experience with Java, C, C++, C# and Python
 <br/>
 🌱 I’m currently learning C# and Python
 <br/>
