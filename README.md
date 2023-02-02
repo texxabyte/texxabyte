@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <br/>
 🌱 I’m currently learning a lot of things
 <br/>
-💬 Ask me about Java Spigot & Bukkit Plugins
+💬 Ask me about Java Spigot
 <br/>
 📫 How to reach me: simaopks009@gmail.com
 <br/>
