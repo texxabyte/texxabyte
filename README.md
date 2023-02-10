@@ -2,8 +2,6 @@
 
 I'm Simão, a self-taught developer. I love play valorant with me friends.
 
-Here are some ideas to get you started:
-
 👨🏻‍💻 I have experience with Java, C, C++, C# and Python
 <br/>
 🌱 I’m currently learning a lot of things
