@@ -10,7 +10,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
 </p>
 
 ### Bancos de dados
