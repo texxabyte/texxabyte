@@ -15,5 +15,5 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-  <img src="https://mariadb.org/" alt="mariadb" width="45" height="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="mariadb" width="45" height="45" />
 </p>
