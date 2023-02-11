@@ -6,7 +6,7 @@ Olá, meu nome é Simão e tenho 16 anos. Desde cedo, desde cedo sempre tive int
 Eu gosto conversar e compartilhar meu conhecimento sobre programação com outras pessoas. É incrível como a troca de ideias e experiências pode ajudar a crescer e aprender ainda mais. E é justamente por isso que criei esse perfil no Github. Quero compartilhar meus projetos e colaborar com a comunidade de programação. Espero poder contribuir para o crescimento e evolução do mundo da tecnologia.
 <br><br>
 
-# Aqui esta tudo o que aprendi até agora
+<h1 align="center"> Tudo o que até agora aprendi </h1>
 
 <p align="center">
   
