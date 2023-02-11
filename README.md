@@ -4,8 +4,6 @@ Olá, meu nome é Simão e tenho 16 anos. Desde cedo, sempre tive interesse na �
 
 Eu gosto conversar e compartilhar meu conhecimento sobre programação com outras pessoas. É incrível como a troca de ideias e experiências pode ajudar a crescer e aprender ainda mais. E é justamente por isso que criei esse perfil no Github. Quero compartilhar meus projetos e colaborar com a comunidade de programação. Espero poder contribuir para o crescimento e evolução do mundo da tecnologia.
 
-<h2> Hello </h2>
-
 ### Linguagens de programação
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
