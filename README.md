@@ -17,7 +17,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 
 ### Bancos de dados
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 </p>
