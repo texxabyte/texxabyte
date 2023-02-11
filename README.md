@@ -17,7 +17,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/mariadb-226022.png?f=webp&w=256" alt="mariadb" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  <img src="https://www.bing.com/ck/a?!&&p=a76d8faad69535a1JmltdHM9MTY3NjA3MzYwMCZpZ3VpZD0xOWYzZDNlMy03ZTkxLTYzMjItMTM3OS1jMTZjN2ZmNjYyZDYmaW5zaWQ9NTM3Mw&ptn=3&hsh=3&fclid=19f3d3e3-7e91-6322-1379-c16c7ff662d6&u=a1L2ltYWdlcy9zZWFyY2g_cT1IaWthcmlDUCUyMEljb24mRk9STT1JUUZSQkEmaWQ9ODlGOEMyQzlCQzk0QjlERjIxQ0FFRUEwMjk2M0Q2NjIyRDc2NUZFNQ&ntb=1" alt="hikaricp" width="45" height="45" />
+  <img src="https://th.bing.com/th/id/OIP.6XKeA2u1WHgk8uN3o47I8wAAAA?pid=ImgDet&rs=1" alt="hikaricp" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="45" height="45" />
