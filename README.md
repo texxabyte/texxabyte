@@ -7,7 +7,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 <br><br>
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png?f=webp&w=256" alt="java" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />
