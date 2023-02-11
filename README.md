@@ -6,7 +6,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 
 <p align="center">
   
-  <h3 align="center" style="font-size: 36px;"> Linguagens de programação </h3>
+  <h3 align="center" style="font-size: 106px;"> Linguagens de programação </h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
