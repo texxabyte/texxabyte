@@ -12,7 +12,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45" />
-  <img src="https://icons8.com/icon/kGaP6llzaOqq/solidity" alt="solidity" width="45" height="45" />
+  <img src="https://img.icons8.com/ios/256/solidity.png" alt="solidity" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
