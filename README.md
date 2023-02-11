@@ -4,10 +4,15 @@ Olá, meu nome é Simão e tenho 16 anos. Desde cedo, sempre tive interesse na �
 
 Eu gosto conversar e compartilhar meu conhecimento sobre programação com outras pessoas. É incrível como a troca de ideias e experiências pode ajudar a crescer e aprender ainda mais. E é justamente por isso que criei esse perfil no Github. Quero compartilhar meus projetos e colaborar com a comunidade de programação. Espero poder contribuir para o crescimento e evolução do mundo da tecnologia.
 
-## 🚀 __Tecnologias com que trabalho__
+## 🚀 O que eu aprendi ate agoar?
+
+### Linguagens de programação
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+</p>
+
+### Bancos de dados
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
