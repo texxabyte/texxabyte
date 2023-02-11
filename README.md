@@ -1,4 +1,4 @@
-<h1 align="center"> Bem vindo ao meu grandioso perfil </h1>
+<h1 align="center"> Meu perfil como apaixonado de programação e informática </h1>
 
 <br>
 Olá, meu nome é Simão e tenho 16 anos. Desde cedo, desde cedo sempre tive interesse na área de tecnologia e programação, o que me levou a desenvolver minhas habilidades e aprender cada vez mais sobre o assunto. Gosto de ler livros e ficar por dentro das novidades e tendências do mundo da tecnologia. Além disso, também gosto de jogar Valorant.
