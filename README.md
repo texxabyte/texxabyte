@@ -5,7 +5,7 @@ I'm currently reading a book named "Clean Code"
 
 👨🏻‍💻 I have experience with Java, C, C++, C# and Python
 <br/>
-🌱 Trying to learn 67 programming languages, gave me in the head.
+🌱 Learning mathematics concepts again with C
 <br/>
 💬 Ask me about Java Spigot
 <br/>
