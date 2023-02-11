@@ -17,7 +17,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/mariadb-226022.png?f=webp&w=256" alt="mariadb" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  <img src="https://th.bing.com/th/id/OIP.6XKeA2u1WHgk8uN3o47I8wAAAA?pid=ImgDet&rs=1" alt="hikaricp" width="45" height="45" />
+  <img src="https://cdn.dribbble.com/users/533789/screenshots/2199499/011_dribbble_hikari_logo.jpg" alt="hikaricp" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="45" height="45" />
