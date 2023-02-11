@@ -15,7 +15,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45" />
   </p>
 
-  ### Bancos de dados
+  <h2 align="center"> Base de dados </h2>
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
@@ -23,8 +23,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
   </p>
 
-  ### Ambientes de desenvolvimento
-
+  <h2 align="center"> Ambientes de desenvolvimento </h2>
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45" />
