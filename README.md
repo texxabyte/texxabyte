@@ -1,13 +1,5 @@
-# Welcome to my profile 
+# Bem vindo ao meu perfil
 
-I'm Simão, a self-taught developer. I love play valorant with me friends.
-I'm currently reading a book named "Clean Code" 
+Olá, meu nome é Simão e tenho 16 anos. Desde cedo, sempre tive interesse na área de tecnologia e programação, o que me levou a desenvolver minhas habilidades e aprender cada vez mais sobre o assunto. Gosto de ler livros e ficar por dentro das novidades e tendências do mundo da tecnologia. Além disso, também gosto de jogar Valorant.
 
-👨🏻‍💻 I have experience with Java, C, C++, C# and Python
-<br/>
-🌱 Learning mathematics concepts again with C
-<br/>
-💬 Ask me about Java Spigot and Problems you have
-<br/>
-📫 How to reach me: simaopks009@gmail.com
-<br/>
+Eu gosto conversar e compartilhar meu conhecimento sobre programação com outras pessoas. É incrível como a troca de ideias e experiências pode ajudar a crescer e aprender ainda mais. E é justamente por isso que criei esse perfil no Github. Quero compartilhar meus projetos e colaborar com a comunidade de programação. Espero poder contribuir para o crescimento e evolução do mundo da tecnologia.
