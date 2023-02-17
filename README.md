@@ -10,7 +10,7 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
-  <p> <span style="margin: 0 10px;">aaa</span></p>
+  <span style="margin: 0 10px;"></span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
