@@ -8,7 +8,6 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
   
 <p align="center">
   
-  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=simaodiazz&show_icons=true&theme=dark#gh-dark-mode-only)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaodiazz&theme=dark#gh-dark-mode-only)
   
 </p>
