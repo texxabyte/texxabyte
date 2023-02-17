@@ -6,10 +6,11 @@ Olá, meu nome é Simão e tenho 16 anos. Desde cedo, desde cedo sempre tive int
 Eu gosto conversar e compartilhar meu conhecimento sobre programação com outras pessoas. É incrível como a troca de ideias e experiências pode ajudar a crescer e aprender ainda mais. E é justamente por isso que criei esse perfil no Github. Quero compartilhar meus projetos e colaborar com a comunidade de programação. Espero poder contribuir para o crescimento e evolução do mundo da tecnologia.
 <br><br>
   
-<p align="center" span style="margin: 0 10px;">aaa</span>>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
+  <span style="margin: 0 10px;"></span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
