@@ -7,5 +7,6 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 <br><br>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark#gh-dark-mode-only" alt="Top Langs" style="display: block; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaodiazz&theme=dark#gh-dark-mode-only" alt="Top Langs" style="display: block; margin: 0 auto;">
 </div>
+
