@@ -7,5 +7,5 @@ Eu gosto conversar e compartilhar meu conhecimento sobre programação com outra
 <br><br>
   
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaodiazz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </p>
