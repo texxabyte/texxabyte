@@ -37,6 +37,3 @@ I'm a 16 years old developer since i was 12. My main focus is make applications.
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/simaodiazz#6123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
