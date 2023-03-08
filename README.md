@@ -1,6 +1,5 @@
 Hi 👋 My name is Simão Dias Peça
 ---
-<br>
 
 I'm a 16 years old developer since i was 12. My main focus is make applications.
 
