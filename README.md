@@ -18,10 +18,14 @@ I'm a 16 years old developer since i was 12. My main focus is make applications.
   <a href="https://docs.microsoft.com/en-us/csharp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
+<br>
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://docs.microsoft.com/en-us/css/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS" /></a>
 </p>
+
+<br>
 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
