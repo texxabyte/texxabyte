@@ -10,3 +10,4 @@ I'm a 16 years old developer since i was 12. My main focus is make applications.
 * 🧠  I'm learning HTML5 and CSS3
 * 🤝  I'm open to collaborating on projects on spigot
 * ⚡  I love play Valorant and Soccer
+<br>
