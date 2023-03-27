@@ -9,5 +9,5 @@ I'm a 16 years old developer since i was 12. My main focus is make applications,
 * 🚀  I am currently working for myself
 * 🧠  I'm learning HTML5 and CSS3
 * 🤝  I'm open to collaborating on projects on spigot
-* ⚡  I love to watch hentai and gay porn 24/7
+* ⚡  I love play valorant and soccer
 <br>
