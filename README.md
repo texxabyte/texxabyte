@@ -2,7 +2,7 @@ My name is Simão Dias Peça
 ---
 <br>
 
-I'm a 16 years old developer since i was 12. My main focus is make applications, websites and games.
+I'm a 16 years old developer since i was 12. My main focus is make Web Applications, AI, Security Systems and 2D Games.
 
 * 🌍  I'm based in Figueira da Foz - Coimbra, Portugal
 * ✉️  You can contact me at simaodiazz#6213
