@@ -9,8 +9,6 @@
  - 😄 Creativity is my last name
   
  - 🔭 My goal is to work with what i love
-  
-  - ⚡ One day I'll make love to the juice 
 
   <br>
   
